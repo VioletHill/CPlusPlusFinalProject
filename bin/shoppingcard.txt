@@ -1,0 +1,10 @@
+shoppingcard001 100
+shoppingcard002 200
+shoppingcard003 120
+shoppingcard004 150.7
+shoppingcard005 100.1
+shoppingcard006 100.9
+shoppingcard007 100.1
+shoppingcard008 10000
+shoppingcard009 10000
+shoppingcard019 12220
